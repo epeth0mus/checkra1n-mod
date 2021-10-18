@@ -86,7 +86,7 @@ unzip -p iPhone2,1_4.3.5_8L1_Restore.ipsw Firmware/dfu/iBSS.n88ap.RELEASE.dfu > 
 
 ## Coming soon!
 
-* iOS 15 Support. More info at [iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/)
+* iOS 15 - iOS 15.1 Support. More info at [iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/) and [iOS 15.1 Jailbreak](https://taig9.com/jailbreak/ios-15-1/)
 
 * iPhone 13, iPhone 12 and iPhone 11 Support
 
